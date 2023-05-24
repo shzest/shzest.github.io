@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/MENU.css">
+    <link rel="shortcut icon" href="img/download-removebg-preview.png" type="image/x-icon">
+    <title>CTN</title>
+</head>
+<body>
+    <header>
+        <section class="menu">
+        
+            
+                <img class="img" src="img/download-removebg-preview.png" width="170" height="170" alt="CTN">
+            
+        
+            <section class="cab">
+            <h1>Colegio Tecnico Nacional y Centro de Entrenamiento Vocacional</h1>
+            <h1>Arq. Raul Maria Benitez Perdomo</h1>
+        </section>
+</header>
+    
+        <a href="MECATRONIC.html" target="_blank"><img src="img/mecatronica-color.png" height="300" width="300" alt="MECATRONICA"></a>
+        
+        <a href="ELECTROMECANICA.html" target="_blank"><img src="img/electromecanica-color.png" height="300" width="300" alt="ELECTROMECANICA"></a>
+
+        <a href="INFOR.html" target="_blank"><img src="img/infor-inverted.png" height="300" width="300" alt="INFOR"></a>
+        
+        <a href="CIVILES.html" target="_blank"><img src="img/civiles-color.png" height="300" width="300" alt="CIVILES"></a>
+        
+        <a href="AUTOMTRIZ.html" target="_blank"><img src="img/mecanica-color.png" height="300" width="300" alt="AUTOMOTRIZ"></a>
+   
+        <a href="ELECTRONICA.html" target="_blank"><img src="img/electronica-inverted.png" height="300" width="300" alt="ELECTRONICA"></a>
+        
+        <a href="QUIMICA.html" target="_blank"><img src="img/quimica-light.png" height="300" width="300" alt="QUIMICA"></a>
+
+        <a href="ELECTRICIDAD.html" target="_blank"><img src="img/electricidad-light.png" height="300" width="300" alt="ELECTRICIDAD"></a>
+
+</body>
+</html>
